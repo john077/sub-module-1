@@ -15,3 +15,5 @@ edit master local
 edit on remote
 
 edit local again
+
+edit sub module 1 on feature for 1
