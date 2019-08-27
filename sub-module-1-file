@@ -57,3 +57,5 @@ edit master 5
 edit master 6
 
 edit dev * 5
+
+edit dev * 6
