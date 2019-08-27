@@ -33,3 +33,9 @@ edit dev 2
 edit dev 3
 
 edit master * 1
+
+edit master * 2
+
+edit dev * 1
+
+edit dev * 2
